@@ -25,7 +25,7 @@ undefined
 array: [1,2,3]
 ```
 ## Links
-* [npm](https://www.npmjs.com/package/lolipop)
+* [Github](https://github.com/meropis/LoliPop)
 
 ## Contributing
 Before creating an issue, please ensure that it hasn't already been reported/suggested.

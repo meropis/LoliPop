@@ -1,0 +1,14 @@
+{
+  "name": "lolipop",
+  "version": "1.3.10",
+  "description": "Better logging tool for NodeJs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "meropis",
+  "license": "ISC",
+  "dependencies": {
+    "lolipop": "^1.0.8"
+  }
+}
